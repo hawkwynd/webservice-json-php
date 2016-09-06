@@ -1,6 +1,6 @@
 {
-  "host":"localhost",
-  "user":"root",
-  "password":"scootre",
-  "database":"test"
+  "host":"your_hostname",
+  "user":"user",
+  "password":"password",
+  "database":"databasename"
 }
