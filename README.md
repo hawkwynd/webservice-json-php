@@ -1,2 +1,5 @@
 # webservice-json-php
-php json webservice api
+========================
+
+A sample snippet of code to display the basics of php json webservice api services.
+
