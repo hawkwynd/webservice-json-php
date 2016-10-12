@@ -1,8 +1,6 @@
 <?php
 /**
  * Simple example of web service
- * @author R. Bartolome
- * @version v1.0
  * @return JSON messages with the format:
  * {
  * 	"code": mandatory, string '0' for correct, '1' for error
